@@ -1,0 +1,30 @@
+h1 {
+    color: red;
+}
+
+body {
+    background-color: aqua;
+}
+
+button {
+    background-color: antiquewhite;
+    color: blueviolet;
+}
+
+#head1{
+    color: blue;
+}
+
+.myclass {
+    color: tomato;
+}
+#box{
+    background-color: blue;
+}
+
+.Heading {
+    color: red;
+}
+button{
+    color: green;
+}
